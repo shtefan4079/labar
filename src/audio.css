@@ -1,0 +1,73 @@
+#audio-window {
+    background: linear-gradient(135deg, rgba(32, 34, 37, 0.98), rgba(47, 49, 54, 0.98));
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+}
+
+#audio-header {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 8px;
+}
+
+#header-title {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#section-label {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 8px;
+}
+
+#refresh-button {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
+    color: white;
+    padding: 8px;
+}
+
+#refresh-button:hover {
+    background: rgba(255, 255, 255, 0.12);
+}
+
+#app-name {
+    color: white;
+    font-size: 13px;
+}
+
+#no-apps-label {
+    color: rgba(255, 255, 255, 0.5);
+    font-style: italic;
+}
+
+combobox {
+    background: rgba(255, 255, 255, 0.08);
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 6px;
+}
+
+scale trough {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 3px;
+    min-height: 6px;
+}
+
+scale highlight {
+    background-color: #00aaff;
+    border-radius: 3px;
+    min-height: 6px;
+}
+
+scale slider {
+    min-width: 16px;
+    min-height: 16px;
+    background-color: white;
+    border-radius: 50%;
+    margin: -5px;
+}
