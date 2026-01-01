@@ -1,4 +1,4 @@
-# Labar (AI Generated Panel)
+# Labar (AI Generated Panel for labwc)
 
 I couldn't find a beautiful panel with the functionality I needed for `labwc`, and since I don't know how to program, this entire panel was written with the help of AI. Because of this, it likely contains a bunch of errors.
 
